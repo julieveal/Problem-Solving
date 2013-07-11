@@ -6,3 +6,5 @@ He could make multiple trips but need to know which one should go first.
 We could take the goat first and then nothing would be eaten and go back and make 2 more trips.
 Socks in the Dark:
 The problem is I  can’t see in the dark.
+I need to select one matching pair at least.
+There are 3 different colors and 10 different pairs of socks. You would have to start out selecting 2 socks.
