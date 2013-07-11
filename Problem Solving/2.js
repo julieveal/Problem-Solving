@@ -13,3 +13,5 @@ That increases your chance of getting a match the next time. The quickest way to
 Predicting Fingers:
 She doesn’t have enough fingers on one hand to count without repeating a finger. 
 We need to figure out what finger she will land on when she keeps counting in this certain order. Without counting all the way to 1000 with our fingers we need to do the math.  Which we could do to check our answer. If we don’t have a lot of time we need to do the math. 
+If she counts to 10 she will land on her pointer finger:
+10/5=2 which is the 2nd or pointer finger.
