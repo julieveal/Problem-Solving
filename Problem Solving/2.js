@@ -16,3 +16,4 @@ We need to figure out what finger she will land on when she keeps counting in th
 If she counts to 10 she will land on her pointer finger:
 10/5=2 which is the 2nd or pointer finger.
 If she counts to 100 she will land on her ring finger: Counting by 5s she would land on the 4th finger or the ring finger.
+If she counts to 1000 she will land on her pointer finger: Counting by 100s and land on the 2nd or pointer finger.
