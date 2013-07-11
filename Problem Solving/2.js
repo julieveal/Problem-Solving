@@ -9,3 +9,6 @@ The problem is I  can’t see in the dark.
 I need to select one matching pair at least.
 There are 3 different colors and 10 different pairs of socks. You would have to start out selecting 2 socks.
 That increases your chance of getting a match the next time. The quickest way to get there is to select 2 of the color with the lowest number of pairs. 
+
+Predicting Fingers:
+She doesn’t have enough fingers on one hand to count without repeating a finger. 
