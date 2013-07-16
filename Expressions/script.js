@@ -1,9 +1,10 @@
-//Expressions - Expressions with Arrays
+//Expressions - Concatenating Strings
 
 
-var orangebins = {234, 567, 883};
+var firstName = "julie";
+var lastName = "Veal";
+var fullName = firstName + " " + lastName;
 
-var total = orangebins{0} + orangebins{1} + orangebins{2};
-console.log(total);
+console.log(fullName);
 
 
