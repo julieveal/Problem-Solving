@@ -1,10 +1,8 @@
-//Expressions - Concatenating Strings
+//Expressions - Assignment Operators
 
 
-var firstName = "julie";
-var lastName = "Veal";
-var fullName = firstName + " " + lastName;
-
-console.log(fullName);
+var a = 3;
+a = a + 4;
+console.log(a);
 
 
