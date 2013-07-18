@@ -3,11 +3,12 @@
 //Sparky's real age time dog years is his dog years age.
 
 
-var age = 5;
-var dog years = 7;
-var equals = age * dog years;//calculates with that info
+var age = prompt("Please enter the real age of Sparky");
+var years = prompt("What is 1 year equal to in dog years");
+var product = age * years;//calculates with that info
 
 
-console.log(equals);//prints it out to console
+//console.log(product);//prints it out to console
 
-//var result = "The age of Sparky in dog years is " 
+var result = "The age of Sparky in dog years is " + product + " years ";
+alert(result);
