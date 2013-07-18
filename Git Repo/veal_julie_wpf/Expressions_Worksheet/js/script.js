@@ -1,12 +1,21 @@
-//Julie Veal 7_17_13 Expression Worksheet array
+//Julie Veal 7_17_13 Expression Worksheet discounts
 
-//Slice of pie part one. Calculated how many slices each person gets
+//discounted price with and without sales tax
 
 
-var groceries = [95, 30, 23, 33, 77]; //these are each a grocery bill amount
+var original = 10; //this is the price of the purse
 
-var total = groceries[0] + groceries[1] + groceries[2] + groceries[3] + groceries[4]
-var average = total / 5 //total is divided by 5 grocery bills
+var discount = 20
+var withoutTax = original - original * discount/100
+var tax = .07
+var total = withoutTax + withoutTax * tax
 
-console.log(average);//prints it out to console
+console.log(total);//prints it out to console
+
+
+
+//console.log(product);//prints it out to console
+
+var result = "Your purse was originally $" + original + " but after a " + discount + "% discount it is now $" + withoutTax + " without tax and $" + total + " with tax. ";
+alert(result);
 
