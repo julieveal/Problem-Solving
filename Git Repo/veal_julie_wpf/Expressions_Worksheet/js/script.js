@@ -1,15 +1,12 @@
-//Julie Veal 7_17_13 Expression Worksheet
+//Julie Veal 7_17_13 Expression Worksheet array
 
 //Slice of pie part one. Calculated how many slices each person gets
 
 
-var people = prompt("How many people are at your party");
-var slices = "8"
-var pizzas = prompt("How many pizzas did you order");
-var quotient = pizzas * slices / people;//calculates with that info
-var remainder = pizzas * slices % people;
+var groceries = [95, 30, 23, 33, 77]; //these are each a grocery bill amount
 
-//console.log(product);//prints it out to console
+var total = groceries[0] + groceries[1] + groceries[2] + groceries[3] + groceries[4]
+var average = total / 5 //total is divided by 5 grocery bills
 
-var result = "Sparky will get " + remainder + " slices of pizza ";
-alert(result);
+console.log(average);//prints it out to console
+
