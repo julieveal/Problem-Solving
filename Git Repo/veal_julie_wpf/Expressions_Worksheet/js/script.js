@@ -3,13 +3,13 @@
 //Slice of pie part one. Calculated how many slices each person gets
 
 
-var people = prompt("Please enter how many people are at your party");
+var people = prompt("How many people are at your party");
 var slices = "8"
 var pizzas = prompt("How many pizzas did you order");
-var quotient = pizzas / people * slices;//calculates with that info
-
+var quotient = pizzas * slices / people;//calculates with that info
+var remainder = pizzas * slices % people;
 
 //console.log(product);//prints it out to console
 
-var result = "Each person will get " + quotient + " slices ";
+var result = "Sparky will get " + remainder + " slices of pizza ";
 alert(result);
