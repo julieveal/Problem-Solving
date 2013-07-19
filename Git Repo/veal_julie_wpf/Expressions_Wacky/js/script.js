@@ -1,29 +1,28 @@
 //Julie Veal 7_18_13 wacky arrays
 
-//How many pairs of shoes can I buy in a year when my budget is $75 per month? Most shoes cost $50.
+//Calculate the average age of the boys
 
-
-var budget = prompt("I have three sons. How old is the oldest?"); //This is the price of the shoes
+var son1 = prompt("I have three sons. Adam is 18."); //This is the price of the shoes
 
 var myKidsAges = ["18", "16", "14"]; //0,1,2
 
+var son2 = prompt("Son number 2 is 2 years younger than the oldest.");//asking to average the 3 ages, mult and divide by 3
 
+var son3 = prompt("Son number 3 is 2 years younger than son number 2.");//asking to average the 3 ages, mult and divide by 3
 
-///var months = prompt("How old is kid number one?");// asking how many months so I could multiply the budget and the months
+var array_sum = myKidsAges;//asking to average the 3 ages, mult and divide by 3
 
-//var cost = prompt("What is the average age of the kids?");//asking for the price for shoes so I can divide the budget and months
-
-//var total = budget * months / cost //budget times the months divided by the average cost of shoes
-
-
-
-
-
-
-//var result = "I can buy " + total + " pairs of shoes in " + months + ;
-//alert(result);
+var average = array_sum / 3;
 
 
 
 
-console.log(myKidsAges[0]);//lets me see how old each of them is
+
+
+var result = "Since son number 1 is " + (myKidsAges[0]) + " then son number 2 is " + (myKidsAges[1]) + " and son number 3 is " + (myKidsAges[2]) + " so the average age is " + average + ".";
+alert(result);
+
+
+
+
+//console.log(myKidsAges);//lets me see how old each of them is
