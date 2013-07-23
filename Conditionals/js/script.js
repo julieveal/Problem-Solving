@@ -1,6 +1,12 @@
 // Veal_Julie  Conditionals
 
-temp=65;
-if(temp>70){
+if(sunny){
 	goToTheBeach();
-}
+	
+	if(warmWater){
+		wearNewSuit();
+	}
+	
+	}else{
+		goToTheMovies();
+	}
