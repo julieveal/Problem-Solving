@@ -1,12 +1,9 @@
-// Veal_Julie  Conditionals
+// Veal_Julie  Conditional logic
 
-if(sunny){
-	goToTheBeach();
+var oldEnough = true;
+
+//if the child is old enough, print to the console "you can ride!"
+
+if(){
 	
-	if(warmWater){
-		wearNewSuit();
-	}
-	
-	}else{
-		goToTheMovies();
-	}
+}
