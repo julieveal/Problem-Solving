@@ -7,6 +7,5 @@ var oldEnough = false;
 if(oldEnough){
 	//code performed if the condition is true. Everything in her must be one tab over. VERY IMPORTANT!
 	console.log("You can ride the coaster!");
-
-
 }
+console.log("What come after");
