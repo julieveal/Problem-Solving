@@ -1,6 +1,6 @@
 // Veal_Julie  Conditional logic
 
-var oldEnough = true;
+var oldEnough = false;
 
 //if the child is old enough, print to the console "you can ride!"
 
