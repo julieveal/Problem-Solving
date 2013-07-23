@@ -1,4 +1,4 @@
-// Veal_Julie  Conditional logic - Relational Expression
+// Veal_Julie  Conditional logic - with an expression Expression
 
 var kidHeight = 52;
 var minHeight = 48
