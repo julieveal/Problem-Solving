@@ -1,14 +1,12 @@
-// Veal_Julie  Conditional logic - Logical Operators
+// Veal_Julie  Conditional logic - Ternary Operators
 
-var budget = 100;
-var iPhonePrice = 199.99;
-var wonLottery = true;
-//if the if the iphone price is less our budget
-if(iPhonePrice < budget || wonLottery === true){      //as long as one true is in there the whole thing is true
-	//code performed if the condition is true. 
-	console.log("We can buy the phone!");
+var gpa = 48;
+
+//if the gpa is over min 2.0 score, the student can graduate
+id( gpa > 2.0){
+		console.log("you can graduate");
 
 }else{
-	console.log("no phone");	
+		console.log("gpa is too low!);
 }
 	
