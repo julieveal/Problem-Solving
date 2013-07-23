@@ -1,10 +1,10 @@
 // Veal_Julie  Conditional logic - Logical Operators
 
-var budget = 300;
+var budget = 100;
 var iPhonePrice = 199.99;
-var paycheck = 200;
+var wonLottery = true;
 //if the if the iphone price is less our budget
-if(iPhonePrice < budget && paycheck > 300){      //one conditional expression on left and one on right
+if(iPhonePrice < budget || wonLottery === true){      //as long as one true is in there the whole thing is true
 	//code performed if the condition is true. 
 	console.log("We can buy the phone!");
 
