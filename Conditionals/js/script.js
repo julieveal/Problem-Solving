@@ -1,11 +1,11 @@
-// Veal_Julie  Conditional logic
+// Veal_Julie  Conditional logic - Relational Expression
 
-var oldEnough = false;
+var kidHeight = 30;
 
 //if the child is old enough, print to the console "you can ride!"
-
-if(oldEnough){
-	//code performed if the condition is true. Everything in her must be one tab over. VERY IMPORTANT!
+//if the kid is over 48 inches in height
+if(kidHeight > 48){
+	//code performed if the condition is true. 
 	console.log("You can ride the coaster!");
 }
-console.log("What come after");//It sees this and not the one above now
+//console.log("What come after");//It sees this and not the one above now
