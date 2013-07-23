@@ -11,3 +11,8 @@ if(iPhonePrice < budget){
 }else{
 	console.log("no phone");	
 }
+if(paycheck > 300){
+	console.log("we can buy");
+}else{
+	console.log("no phone");
+}	
