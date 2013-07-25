@@ -4,7 +4,7 @@
 //I have 4 to choose from. The wheel needs to be the same height as the tire. 
 
 
-var width = 8;		// 8 inches wide
+var width = prompt("What is the width of your photograph?", 8);		// 8 inches wide
 	height = 10;	//10 inches high
 	size = width * height;		//multiply 8 by 10
 	tireD = 25;		//25 inches high
