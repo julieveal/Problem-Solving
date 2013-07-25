@@ -1,13 +1,14 @@
-// Veal_Julie  Conditional logic - Ternary Operators
+// Veal_Julie  July 24, 2013  Celsius to Fahrenheit converter
 
-var gpa = 48;
+//
 
-//if the gpa is over min 2.0 score, the student can graduate
-/*if( gpa > 2.0){
-		console.log("you can graduate");
 
-}else{
-		console.log("gpa is too low!);
-}*/
+var degFaren = prompt ("Enter the degrees in Fahrenheit");
 
-(gpa > 2.0)
+var degCelsius = 5/9 * (degFaren-32);
+
+
+
+	console.log("The temperature is " + degCelsius + " degrees Celsius");
+
+
