@@ -9,8 +9,8 @@ var tireA = 10;			// 10 inches high
 	tireC = 20;			//20 inches high
 	tireD = 25;			//25 inches high
 
-var	bikeHeight = prompt;					//how tall is the tire?
-	
+var	bikeHeight = prompt("How tall is the wheel?");					//how tall is the tire?
+	console.log(bikeHeight);//calculate
 
 if(tireC == bikeHeight){ //they are the same number
 							
