@@ -4,8 +4,8 @@
 //I have 4 to choose from. The wheel needs to be the same height as the tire. 
 
 
-var tireA = 10;		// 10 inches high
-	tireB = 15;	//15 inches high
+var width = 8;		// 8 inches wide
+	height = 10;	//10 inches high
 	tireC = 20;		//20 inches high
 	tireD = 25;		//25 inches high
 
