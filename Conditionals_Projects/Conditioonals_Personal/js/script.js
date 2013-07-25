@@ -6,7 +6,7 @@
 
 var tireA = 10;		// 10 inches high
 	tireB = 15;	//15 inches high
-	tireC = 20;			//20 inches high
+	tireC = 20;		//20 inches high
 	tireD = 25;			//25 inches high
 
 var	bikeHeight = prompt("How tall is the wheel?");					//how tall is the tire?
