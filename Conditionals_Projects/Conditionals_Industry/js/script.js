@@ -7,12 +7,12 @@
 var width = prompt("What is the width of your photograph?", 8);		// 8 inches wide
 	height = 10;	//10 inches high
 	size = width * height;		//multiply 8 by 10
-	tireD = 25;		//25 inches high
 
-var	bikeHeight = prompt("How tall is the wheel?");				//how tall is the tire?
-	console.log(bikeHeight); //calculate
 
-if(tireC == bikeHeight){   //they are the same number
+var	size = prompt("What size is the photograph?");				//how tall is the tire?
+	console.log(size); //calculate
+
+/*if(tireC == bikeHeight){   //they are the same number
 							
 	console.log("Put the tire on the bike!");  //the right size
 }else{							     		//otherwise
