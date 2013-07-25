@@ -1,4 +1,4 @@
-// Veal_Julie  July 25, 2013  Personal
+ // Veal_Julie  July 25, 2013  Personal
 
 //What size tire do I put on my bike?
 //I have 4 to choose from. The wheel needs to be the same height as the tire. 
