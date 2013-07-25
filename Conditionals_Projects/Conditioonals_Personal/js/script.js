@@ -17,7 +17,7 @@ if(tireC == bikeHeight){   //they are the same number
 	console.log("Put the tire on the bike!");  //the right size
 }else{							     		//otherwise
 										
-	console.log("You should use a different tire!");//not the right size
+	console.log("You should use a different tire!");  //not the right size
 													
 }													//close
 
