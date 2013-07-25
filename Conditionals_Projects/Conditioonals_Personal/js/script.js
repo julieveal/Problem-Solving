@@ -9,6 +9,7 @@ var tireA = 10;			// 10 inches high
 	tireC = 20;			//20 inches high
 	tireD = 25;			//25 inches high
 	bikeHeight = 20;					//how tall is the tire?
+	
 
 if(tireC == bikeHeight){ //they are the same number
 							
@@ -16,5 +17,6 @@ if(tireC == bikeHeight){ //they are the same number
 }else{									//otherwise
 										
 	console.log("You should use a different tire!");//not the right size
-													//
-}													//
+													
+}													//close
+
