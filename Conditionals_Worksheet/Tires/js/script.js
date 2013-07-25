@@ -10,8 +10,8 @@ if(tires >= 30 && tires <= 35){
 
 	console.log("Tires pass spec!");
 
-}else if(tires > 35 && tires < 30){
-//console.log("What come after")
+}else{
+
 	console.log("You should tires checked!");
 
 
