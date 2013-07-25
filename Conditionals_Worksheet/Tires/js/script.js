@@ -4,13 +4,13 @@
 //do they pass spec
 
 
-var frontLeft = 34
-var frontRight = 35
-var max = 35
-var min = 30
+var frontLeft = 34;
+var frontRight = 36;
+var max = 35;
+var min = 30;
 
 //if the tire pressure in between 30 and 35
-if(frontLeft >= min && frontRight === max){
+if(frontLeft && frontRight < max){
 
 	console.log("Tires pass spec!");
 
