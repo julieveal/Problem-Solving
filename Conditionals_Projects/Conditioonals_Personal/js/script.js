@@ -19,5 +19,5 @@ if(tireC == bikeHeight){   //they are the same number
 										
 	console.log("You should use a different tire!");  //not the right size
 													
-}													//close
+}												//close
 
