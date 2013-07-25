@@ -15,7 +15,7 @@ var	bikeHeight = prompt("How tall is the wheel?");				//how tall is the tire?
 if(tireC == bikeHeight){   //they are the same number
 							
 	console.log("Put the tire on the bike!");  //the right size
-}else{									//otherwise
+}else{							     		//otherwise
 										
 	console.log("You should use a different tire!");//not the right size
 													
