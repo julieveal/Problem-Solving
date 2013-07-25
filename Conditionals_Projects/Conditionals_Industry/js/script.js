@@ -6,7 +6,7 @@
 
 var width = 8;		// 8 inches wide
 	height = 10;	//10 inches high
-	tireC = 20;		//20 inches high
+	size = width * height;		//multiply 8 by 10
 	tireD = 25;		//25 inches high
 
 var	bikeHeight = prompt("How tall is the wheel?");				//how tall is the tire?
