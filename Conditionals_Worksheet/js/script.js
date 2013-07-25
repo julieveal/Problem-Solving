@@ -5,7 +5,7 @@
 
 var degFaren = prompt ("Enter the degrees in Fahrenheit");
 
-var degCelsius = 5/9 * (degFaren-32);
+var degCelsius = 5/9 * (degFaren-32);//I figured out what the calculation was in order to get Celsius
 
 
 
