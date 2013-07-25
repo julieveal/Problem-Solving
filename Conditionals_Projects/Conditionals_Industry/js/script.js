@@ -1,6 +1,6 @@
  // Veal_Julie  July 25, 2013  Industry
 
-//What size tire do I put on my bike?
+//What is the resolution of my photograph?
 //I have 4 to choose from. The wheel needs to be the same height as the tire. 
 
 
