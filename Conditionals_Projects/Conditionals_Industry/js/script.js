@@ -10,7 +10,7 @@ var width = prompt("What is the width of your photograph?", 8);		// 8 inches wid
 
 
 var	size = prompt("What size is the photograph?");				//how tall is the tire?
-	console.log(size); //calculate
+	console.log(size);  //calculate
 
 /*if(tireC == bikeHeight){   //they are the same number
 							
