@@ -3,8 +3,8 @@
 //What is the resolution of my photograph?
 
 
-var height = prompt("What is the height of your photograph in pixels?");		// 8 inches wide
-	height = 10;	//10 inches high
+var heightP = prompt("What is the height of your photograph in pixels?");		// pixels wide
+	heightI = prompt("What is the height of your photograph in inches?");		// inches wide
 	size = width * height;		//multiply 8 by 10
 
 
