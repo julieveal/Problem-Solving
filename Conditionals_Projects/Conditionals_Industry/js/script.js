@@ -1,7 +1,6 @@
  // Veal_Julie  July 25, 2013  Industry
 
 //What is the resolution of my photograph?
-//I have 4 to choose from. The wheel needs to be the same height as the tire. 
 
 
 var height = prompt("What is the height of your photograph in pixels?");		// 8 inches wide
