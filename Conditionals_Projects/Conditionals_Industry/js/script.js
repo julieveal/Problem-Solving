@@ -6,7 +6,7 @@
 var heightP = prompt("What is the height of your photograph in pixels?", 1000);		// pixels wide
 	heightI = prompt("What is the height of your photograph in inches?");		// inches wide
 	resolution = heightP / heightI;		//divide hP by hI
-	size;
+	
 
 if(heightP && heightI){   //they are both true
 							
@@ -15,7 +15,5 @@ if(heightP && heightI){   //they are both true
 										
 	console.log("Get a new photo!");   //not the right size
 													
-size = (resolution) ?"Use the photo!": "Get a new photo!"
-	console.log(size);
 }												//close
 
