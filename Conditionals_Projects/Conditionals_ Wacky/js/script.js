@@ -11,10 +11,10 @@ var circumference = prompt("What is the circumference of my tree?", 50);		// inc
 
 //if(heightP && heightI){   //they are both true
 							
-	console.log("Use the photo!");   //the right size
-/*}else{							     		//otherwise
+	console.log("The age of the tree is " + age + " years.");   //the right size
+//}else{							     		//otherwise
 										
-	console.log("Get a new photo!");   //not the right size
+//	console.log("Get a new photo!");   //not the right size
 													
-}												//close
+												//close
 
