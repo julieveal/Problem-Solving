@@ -8,16 +8,14 @@ var heightP = prompt("What is the height of your photograph in pixels?", 1000);	
 	resolution = heightP / heightI;		//divide hP by hI
 
 
-if(heightP && heightI){   // both are true
+if(heightP && heightI){   //they are both true
 							
 	console.log("Use the photo!");   //the right size
-}else if{							     		//otherwise
+}else{							     		//otherwise
 										
 	console.log("Get a new photo!");   //not the right size
 													
-}else{
-	heightP != heightI != resolution;
- 	console.log("Recalculate!");
+
 
 
 }												//close
