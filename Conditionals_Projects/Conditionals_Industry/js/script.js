@@ -1,15 +1,15 @@
  // Veal_Julie  July 25, 2013  Industry
 
 //What is the resolution of my photograph?
+//heightP = 1000
 
-
-var heightP = prompt("What is the height of your photograph in pixels?");		// pixels wide
+var heightP = prompt("What is the height of your photograph in pixels?", 1000);		// pixels wide
 	heightI = prompt("What is the height of your photograph in inches?");		// inches wide
-	size = width * height;		//multiply 8 by 10
+	res = heightP / heightI;		//multiply hP by hI
 
 
-var	size = prompt("What size is the photograph?");				//how tall is the tire?
-	console.log(size);  //calculate
+var	res = prompt("What size is the photograph's resolution?");				//how tall is the tire?
+	console.log(res);  //calculate
 
 /*if(tireC == bikeHeight){   //they are the same number
 							
