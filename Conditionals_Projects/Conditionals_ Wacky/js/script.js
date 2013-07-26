@@ -4,16 +4,15 @@
  //circumference = 36 inches
 
 var circumference = prompt("What is the circumference of my tree?", 50);		// inches around measured with a string
-	diameter = circumference / 3.14
-	radius = diameter / 2
-	
-	age = radius / width
+	diameter = circumference / 3.14;
+	radius = diameter / 2;	
+	age = radius / .125;
 
 
-if(heightP && heightI){   //they are both true
+//if(heightP && heightI){   //they are both true
 							
 	console.log("Use the photo!");   //the right size
-}else{							     		//otherwise
+/*}else{							     		//otherwise
 										
 	console.log("Get a new photo!");   //not the right size
 													
