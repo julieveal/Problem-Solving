@@ -1,12 +1,14 @@
  // Veal_Julie  July 25, 2013  Wacky
 
 //What is the age of my tree?
- //rings = 1000
+ //circumference = 36 inches
 
-var rings = prompt("What is the age of my tree?", 1000);		// years
-	age = prompt("What is the height of your photograph in inches?");		// inches wide
-	width = ;		//divide hP by hI
+var circumference = prompt("What is the circumference of my tree?", 50);		// inches around measured with a string
+	diameter = circumference / 3.14
+	radius = diameter / 2
 	
+	age = radius / width
+
 
 if(heightP && heightI){   //they are both true
 							
