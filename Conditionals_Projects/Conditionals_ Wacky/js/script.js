@@ -11,7 +11,7 @@ var circumference = prompt("What is the circumference of my tree?", 50);		// inc
 if (diameter < radius){
 	console.log("start over");
 }
-else{
+else {
 	console.log("you are done");
 }
 
