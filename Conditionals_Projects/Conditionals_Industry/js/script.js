@@ -13,7 +13,7 @@ if(heightP && heightI){   //they are not the same number
 	console.log("Get a new photo!");   //the right size
 }else{							     		//otherwise
 										
-	console.log("You should use a different tire!");   //not the right size
+	console.log("Use photo!");   //not the right size
 													
 }												//close
 
