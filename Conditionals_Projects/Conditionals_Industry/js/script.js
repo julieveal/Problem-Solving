@@ -9,7 +9,7 @@ var heightP = prompt("What is the height of your photograph in pixels?", 1000);	
 
 
 var	res = prompt("What size is the photograph's resolution?");				//how tall is the tire?
-	console.log(res);  //calculate
+	console.log(res); 	 //calculate
 
 /*if(tireC == bikeHeight){   //they are the same number
 							
