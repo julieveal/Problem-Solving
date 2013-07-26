@@ -1,7 +1,7 @@
  // Veal_Julie  July 25, 2013  Wacky
 
 //What is the age of my tree?
-//rings = 1000
+ //rings = 1000
 
 var rings = prompt("What is the age of my tree?", 1000);		// years
 	age = prompt("What is the height of your photograph in inches?");		// inches wide
