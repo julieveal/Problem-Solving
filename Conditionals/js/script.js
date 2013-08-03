@@ -1,4 +1,4 @@
-// Veal_Julie  Conditional logic - Ternary Operators
+ // Veal_Julie  Conditional logic - Ternary Operatorss
 
 var gpa = 48;
 
